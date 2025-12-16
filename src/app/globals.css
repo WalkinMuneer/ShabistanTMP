@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 40 100% 96%; /* #FFF9EB */
+    --foreground: 0 0% 13%; /* #222222 */
+    --card: 40 100% 99%; /* #FFFDF7 */
+    --card-foreground: 0 0% 13%;
+    --popover: 40 100% 99%;
+    --popover-foreground: 0 0% 13%;
+    --primary: 357 67% 47%; /* #C9252C */
+    --primary-foreground: 0 0% 98%; /* #FAFAFA */
+    --secondary: 122 48% 34%; /* #2E7D32 */
+    --secondary-foreground: 0 0% 98%;
+    --muted: 40 25% 90%;
+    --muted-foreground: 0 0% 45.1%;
+    --accent: 98 53% 79%; /* #BFE6A8 */
+    --accent-foreground: 0 0% 13%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 32 20% 85%;
+    --input: 32 20% 85%;
+    --ring: 357 67% 47%;
+    --radius: 0.5rem;
+  }
+  .dark {
+    --background: 0 0% 10%;
+    --foreground: 0 0% 98%;
+    --card: 0 0% 13%;
+    --card-foreground: 0 0% 98%;
+    --popover: 0 0% 13%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 357 67% 47%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 122 48% 34%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 0 0% 14.9%;
+    --muted-foreground: 0 0% 63.9%;
+    --accent: 98 53% 79%;
+    --accent-foreground: 0 0% 13%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 0 0% 20%;
+    --input: 0 0% 20%;
+    --ring: 357 67% 47%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    @apply scroll-smooth;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-headline;
+  }
+}

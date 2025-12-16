@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-collage",
+      "description": "A grilled sandwich with bacon, fried egg, and tomato.",
+      "imageUrl": "https://img.freepik.com/free-photo/grilled-sandwich-with-bacon-fried-egg-tomato-lettuce-served-wooden-cutting-board_1150-42571.jpg?semt=ais_hybrid&w=740&q=80",
+      "imageHint": "grilled sandwich"
+    },
+    {
+      "id": "about-table",
+      "description": "A table filled with a variety of Shabistan's food items.",
+      "imageUrl": "https://images.unsplash.com/photo-1564638305579-5e395c9b62c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmb29kJTIwdGFibGV8ZW58MHx8fHwxNzY1ODczMzIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food table"
+    },
+    {
+      "id": "dahi-papdi-special",
+      "description": "A delicious plate of Dahi Papdi chaat.",
+      "imageUrl": "https://img.freepik.com/premium-photo/tasty-papdi-chaat-dahi-puri-white-background-dahi-puri-image-photography_1020697-124113.jpg",
+      "imageHint": "dahi papdi"
+    },
+    {
+      "id": "gallery-cone",
+      "description": "A close-up of a softy ice cream cone.",
+      "imageUrl": "https://images.unsplash.com/photo-1695234502713-9084080ea54f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpY2UtY3JlYW0lMjBjb25lfGVufDB8fHx8MTc2NTg3MzMyM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ice-cream cone"
+    },
+    {
+      "id": "gallery-waffle",
+      "description": "A waffle drizzled with chocolate sauce.",
+      "imageUrl": "https://images.unsplash.com/photo-1695304781788-2ae3f1b02ccc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaG9jb2xhdGUlMjB3YWZmbGV8ZW58MHx8fHwxNzY1ODczMzIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chocolate waffle"
+    },
+    {
+      "id": "gallery-mojito",
+      "description": "A tall, refreshing glass of a colorful mojito.",
+      "imageUrl": "https://images.unsplash.com/photo-1619604580082-e54fcde25493?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxtb2ppdG8lMjBkcmlua3xlbnwwfHx8fDE3NjU4MDI3Njl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mojito drink"
+    },
+    {
+      "id": "gallery-sandwich",
+      "description": "A grilled sandwich cut in half.",
+      "imageUrl": "https://images.unsplash.com/photo-1655279562015-047c3da9a271?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxncmlsbGVkJTIwc2FuZHdpY2h8ZW58MHx8fHwxNzY1ODczMzIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grilled sandwich"
+    },
+    {
+      "id": "gallery-fries",
+      "description": "A basket of crispy french fries.",
+      "imageUrl": "https://images.unsplash.com/photo-1607329773021-91a5dbd5986f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZnJlbmNoJTIwZnJpZXN8ZW58MHx8fHwxNzY1ODYxNDY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "french fries"
+    },
+    {
+      "id": "gallery-people",
+      "description": "Friends laughing and enjoying food at a cafe.",
+      "imageUrl": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmcmllbmRzJTIwZWF0aW5nfGVufDB8fHx8MTc2NTc3NjkxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "friends eating"
+    }
+  ]
+}
